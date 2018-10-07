@@ -1,0 +1,5 @@
+Apa itu HTML ?
+HyperText Markup Language (HTML) adalah sebuah yang digunakan untuk membuat sebuah halaman web, menampilkan berbagai informasi di dalam sebuah Penjelajah web Internet dan formating hypertext sederhana yang ditulis kedalam berkas format ASCII agar dapat menghasilkan tampilan wujud yang terintegerasi.
+
+Sejarah dari HTML
+Awalnya HTML(Hyper Text Markup Language) merupakan sebuah bahasa yang sebelumnya banyak digunakan di dunia penerbitan dan percetakan disebut dengan SGML (Standard Generalized Markup Language), HTML merupakan sebuah standar yang digunakan secara luas untuk menampilkan halaman web. Saat ini HTML merupakan standar Internet yang didefinisikan dan dikendalikan oleh World Wide Web Consortium (W3C).
