@@ -6,6 +6,7 @@ Berikut kami sertakan tugas HTML yang wajib anggota `UKM Progress` kerjakan, aga
 
 Silahkan kumpul tugas tersebut sesuai dengan aturan berikut
   - Kirim tugas tersebut pada email `progress.stikombali@gmail.com`
+  - File tugas berbentuk `.html`
   - Subject : `Progress 2018 - HTML`
   - Body : NIM, Nama Lengkap, Nama & Nomor Kelompok.
 
